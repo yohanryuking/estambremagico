@@ -1,0 +1,40 @@
+@media screen and (max-width: 480px){
+    .section{
+        min-height: auto;
+    }
+
+    .alta{
+        height: 80vh;
+    }
+
+    .title{
+        /* white-space: nowrap; */
+        font-size: 14vw;
+        text-align: center;
+    }
+
+    .subTitle{
+        font-size: 11vw;
+    }
+
+    .text{
+        font-size: 8vw;
+        line-height: normal;
+    }
+
+    .wave{
+        height: 30px;
+        background-size: 500px 30px;
+    }
+
+    .redes svg{
+        width: 8vw;
+        height: 8vw;
+    }
+
+    .footer{
+        font-size: 3vw;
+    }
+
+
+}
